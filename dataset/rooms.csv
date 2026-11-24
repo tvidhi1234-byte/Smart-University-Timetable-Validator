@@ -1,0 +1,7 @@
+
+room_id,room_name,building,capacity,room_type
+R101,Computer Lab 1,A Block,60,Computer Lab
+R102,Computer Lab 2,A Block,45,Computer Lab
+R201,Lecture Hall 1,B Block,100,Lecture Hall
+R202,Lecture Hall 2,B Block,80,Lecture Hall
+R301,Seminar Room,C Block,35,Seminar
